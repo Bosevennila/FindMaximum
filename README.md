@@ -55,6 +55,7 @@ i) # To find the maximum of marks using the list method sort.
 ![image](https://github.com/Bosevennila/FindMaximum/assets/144870486/63797662-ff51-4ee0-8595-951d7afc142c)
 ii) # To find the maximum marks using the list method max().
 ![image](https://github.com/Bosevennila/FindMaximum/assets/144870486/76ae8125-85b5-4a28-8682-eeaa2110bb11)
+iii) # To find the maximum marks without using builtin functions.
 ![image](https://github.com/Bosevennila/FindMaximum/assets/144870486/7bf2420a-9c4b-4e88-9045-61f8c96b5ea3)
 
 ## Result:
